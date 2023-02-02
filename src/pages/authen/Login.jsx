@@ -44,7 +44,7 @@ function Login() {
       <div className="relative  max-w-[500px] mx-auto bg-white px-16 py-4 rounded-[5px] lgmx:max-w-full lgmx:w-[90%] lgmx:py-4 lgmx:px-8">
         <div className="w-full p-4">
           <div className="max-w-md">
-            <h4 className="text-center">Welcome to .....</h4>
+            <h4 className="text-center">Welcome to </h4>
           </div>
         </div>
 
